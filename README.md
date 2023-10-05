@@ -1,16 +1,13 @@
-### Hi there 👋
+#  ![cosmic red header](https://assets.codepen.io/527512/twitch_cover.jpg?width=1000&height=200&format=auto&fit=cover)
 
-<!--
-**LassanaK/LassanaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Always learning ✨
 
-Here are some ideas to get you started:
+- 👨🏻‍💻 Application Java Developer.
+- 💻 Java Swing · Transact-SQL · Jasper Reports · Spring Framework · Angular · Vue · Maven · Git.
+- 🎓 DAW · Técnico Superior en Desarrollo de Aplicaciones Web.
+- 📚 DAM · I'm studying Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/lassana-kante)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaulGB88&theme=react&line_height=40&hide=css"/> </a>
+
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/?username=RaulGB88"/> </a>

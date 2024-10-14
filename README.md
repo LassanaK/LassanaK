@@ -5,7 +5,7 @@
 - 👨🏻‍💻 Application Java Developer.
 - 💻 Java Swing · Transact-SQL · Jasper Reports · Spring Framework · Angular · Vue · Maven · Git.
 - 🎓 DAW · Técnico Superior en Desarrollo de Aplicaciones Web.
-- 📚 DAM · I'm studying Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
+- 📚 DAM · Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/lassana-kante-b72483182)
 
 <!-- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LassanaK&theme=react&line_height=40&hide=css"/> </a> -->
